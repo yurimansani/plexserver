@@ -4,3 +4,6 @@
 
 ## Instalando uma versão do linux
 Eu escolhi a versão de servidor do Fedora pois tem uma interface web facil de dar manutenção
+
+link de donwload: [Fedora](https://getfedora.org/pt_BR/server/download/)
+
